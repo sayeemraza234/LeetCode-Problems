@@ -1,6 +1,5 @@
 # LeetCode Problems
 
-A collection of LeetCode questions to ace coding interviews.
 
 ## Solved Problems
 
