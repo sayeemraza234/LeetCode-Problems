@@ -1,51 +1,90 @@
-# LeetCode Problems
+LeetCode Problems
+Solved Problems by Category
+Array
+Two Sum
 
-## Solved Problems
+Remove Duplicates from Sorted Array
 
-### Array
-- Two Sum
-- Remove Element
-- Merge Sorted Array
+Remove Element
 
-### Linked List
-- Add Two Numbers
+Spiral Matrix
 
-### String
-- Longest Substring Without Repeating Characters
-- Longest Palindromic Substring
-- Integer to Roman
-- Roman to Integer
+Merge Sorted Array
 
-### Math
-- Palindrome Number
+Linked List
+Add Two Numbers
 
-### Backtracking
-- Letter Combinations of a Phone Number
+Merge Two Sorted Lists
 
-### Two Pointers
-- Remove Element
-- Merge Sorted Array
+String
+Longest Substring Without Repeating Characters
 
-### Sorting
-- Merge Sorted Array
+Longest Palindromic Substring
 
-### Database
-- Recyclable and Low Fat Products
+Integer to Roman
 
----
+Roman to Integer
 
-## Total Problems Solved
+Valid Parentheses
 
-- Two Sum
-- Add Two Numbers
-- Longest Substring Without Repeating Characters
-- Longest Palindromic Substring
-- Palindrome Number
-- Integer to Roman
-- Roman to Integer
-- Letter Combinations of a Phone Number
-- Remove Element
-- Merge Sorted Array
-- Recyclable and Low Fat Products
+Length of Last Word
 
-**Total: 11 Problems**
+Math
+Palindrome Number
+
+Backtracking
+Letter Combinations of a Phone Number
+
+Two Pointers
+Remove Duplicates from Sorted Array
+
+Remove Element
+
+Merge Sorted Array
+
+Stack
+Valid Parentheses
+
+Matrix
+Spiral Matrix
+
+Sorting
+Merge Sorted Array
+
+Database
+Recyclable and Low Fat Products
+
+Total Problems Solved List
+Two Sum (0001)
+
+Add Two Numbers (0002)
+
+Longest Substring Without Repeating Characters (0003)
+
+Longest Palindromic Substring (0005)
+
+Palindrome Number (0009)
+
+Integer to Roman (0012)
+
+Roman to Integer (0013)
+
+Letter Combinations of a Phone Number (0017)
+
+Valid Parentheses (0020)
+
+Merge Two Sorted Lists (0021)
+
+Remove Duplicates from Sorted Array (0026)
+
+Remove Element (0027)
+
+Spiral Matrix (0054)
+
+Length of Last Word (0058)
+
+Merge Sorted Array (0088)
+
+Recyclable and Low Fat Products (1757)
+
+Total: 16 Problems
