@@ -100,11 +100,12 @@
 - Basic Calculator (0224)
 - Tenth Line (0195)
 
+
 ---
 
 ## Statistics
 
-**Total Problems Solved: 29**
+**Total Problems Solved: 31**
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
