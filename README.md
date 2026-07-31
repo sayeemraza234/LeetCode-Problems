@@ -11,6 +11,7 @@
 - Permutations II
 - Rotate Image
 - Spiral Matrix
+- Jump Game
 - Plus One
 - Merge Sorted Array
 
@@ -43,10 +44,14 @@
 
 ### Stack
 - Valid Parentheses
+- Basic Calculator
 
 ### Matrix
 - Spiral Matrix
 - Rotate Image
+
+### Shell
+- Tenth Line
 
 ### Sorting
 - Merge Sorted Array
@@ -92,6 +97,8 @@
 - Movie Rating (1341)
 - Replace Employee ID With The Unique Identifier (1378)
 - Recyclable and Low Fat Products (1757)
+- Basic Calculator (0224)
+- Tenth Line (0195)
 
 ---
 
