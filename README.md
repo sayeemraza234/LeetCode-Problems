@@ -30,6 +30,7 @@
 
 ### Math
 - Palindrome Number
+- Add Binary
 
 ### Backtracking
 - Letter Combinations of a Phone Number
@@ -99,13 +100,13 @@
 - Recyclable and Low Fat Products (1757)
 - Basic Calculator (0224)
 - Tenth Line (0195)
-
+- Add Binary (0067)
 
 ---
 
 ## Statistics
 
-**Total Problems Solved: 31**
+**Total Problems Solved: 32**
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
