@@ -47,6 +47,9 @@
 - Valid Parentheses
 - Basic Calculator
 
+### Dynamic Programming
+- Edit Distance
+
 ### Matrix
 - Spiral Matrix
 - Rotate Image
@@ -101,12 +104,13 @@
 - Basic Calculator (0224)
 - Tenth Line (0195)
 - Add Binary (0067)
+- Edit Distance (0072)
 
 ---
 
 ## Statistics
 
-**Total Problems Solved: 32**
+**Total Problems Solved: 33**
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
