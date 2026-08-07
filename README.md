@@ -114,12 +114,13 @@
 - Add Binary (0067)
 - Edit Distance (0072)
 - Biggest Single Number (0619)
+- Exchange Seats (0626)
 
 ---
 
 ## Statistics
 
-**Total Problems Solved: 34**
+**Total Problems Solved: 35**
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
