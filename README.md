@@ -61,13 +61,21 @@
 - Merge Sorted Array
 
 ### Database
+- Combine Two Tables
 - Recyclable and Low Fat Products
-- Replace Employee ID With The Unique Identifier
 - Consecutive Numbers
-- Movie Rating
-- Average Selling Price
+- Delete Duplicate Emails
+- Rising Temperature
 - Big Countries
-
+- Biggest Single Number
+- Product Sales Analysis I
+- Average Selling Price
+- Students and Examinations
+- Movie Rating
+- Replace Employee ID With The Unique Identifier
+- Find Users With Valid E-Mails
+- Find Followers Count
+- Employees Whose Manager Left the Company
 ---
 
 # Total Problems Solved List
@@ -105,12 +113,13 @@
 - Tenth Line (0195)
 - Add Binary (0067)
 - Edit Distance (0072)
+- Biggest Single Number (0619)
 
 ---
 
 ## Statistics
 
-**Total Problems Solved: 33**
+**Total Problems Solved: 34**
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
