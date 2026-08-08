@@ -27,6 +27,7 @@
 - Valid Parentheses
 - Length of Last Word
 - Valid Number
+- Longest Common Prefix (0014)
 
 ### Math
 - Palindrome Number
@@ -115,12 +116,13 @@
 - Edit Distance (0072)
 - Biggest Single Number (0619)
 - Exchange Seats (0626)
+- Longest Common Prefix (0014)
 
 ---
 
 ## Statistics
 
-**Total Problems Solved: 35**
+**Total Problems Solved: 36**
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
