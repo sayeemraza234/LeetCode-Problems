@@ -117,16 +117,22 @@
 - Biggest Single Number (0619)
 - Exchange Seats (0626)
 - Longest Common Prefix (0014)
+- Median of Two Sorted Arrays (0004)
 
 ---
 
 ## Statistics
 
-**Total Problems Solved: 36**
+**Total Problems Solved: 37**
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Binary Search
+### Binary Search
+- Search Insert Position
+- Guess Number Higher or Lower
+- Count Negative Numbers in a Sorted Matrix
+- Median of Two Sorted Arrays
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/sayeemraza234/LeetCode-Problems/tree/master/0374-guess-number-higher-or-lower) |
