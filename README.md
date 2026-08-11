@@ -8,7 +8,7 @@
 - Remove Element
 - Next Permutation
 - Permutations
-- Permutations II
+- Permutations II  
 - Plus One
 - Merge Sorted Array
 - Jump Game
@@ -145,9 +145,10 @@
 - Find Followers Count (1729)
 - Recyclable and Low Fat Products (1757)
 - Employees Whose Manager Left the Company (1978)
+- Combinations (0077)
 
 ---
 
 ## Statistics
 
-**Total Problems Solved: 50**
+**Total Problems Solved: 51**
