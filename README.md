@@ -23,10 +23,12 @@
 - Longest Palindromic Substring
 - Integer to Roman
 - Roman to Integer
-- Longest Common Prefix
 - Valid Parentheses
 - Length of Last Word
 - Valid Number
+- Longest Common Prefix
+- Add Binary
+- Multiply Strings
 
 ### Math
 - Palindrome Number
@@ -146,9 +148,9 @@
 - Recyclable and Low Fat Products (1757)
 - Employees Whose Manager Left the Company (1978)
 - Combinations (0077)
-
+- Multiply Strings (0043)
 ---
 
 ## Statistics
 
-**Total Problems Solved: 51**
+**Total Problems Solved: 52**
