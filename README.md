@@ -93,7 +93,7 @@
 - Employee Bonus
 - Investments in 2016
 - Exchange Seats
-
+- Monthly Transactions I
 ---
 
 ## Total Problems Solved List
@@ -149,8 +149,9 @@
 - Employees Whose Manager Left the Company (1978)
 - Combinations (0077)
 - Multiply Strings (0043)
+- Monthly Transactions I (1193)
 ---
 
 ## Statistics
 
-**Total Problems Solved: 52**
+**Total Problems Solved: 53**
