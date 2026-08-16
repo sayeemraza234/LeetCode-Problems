@@ -49,6 +49,7 @@
 ### Stack
 - Valid Parentheses
 - Basic Calculator
+- Longest Valid Parentheses
 
 ### Dynamic Programming
 - Edit Distance
@@ -150,6 +151,7 @@
 - Combinations (0077)
 - Multiply Strings (0043)
 - Monthly Transactions I (1193)
+- Longest Valid Parentheses (0032)
 ---
 
 ## Statistics
